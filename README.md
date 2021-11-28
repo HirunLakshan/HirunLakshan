@@ -13,6 +13,7 @@ You can use the website to generate badges: https://shields.io/
 - 🚶‍   I live in : Sri Lanka 🇱🇰<br><br>
 ![Hirun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirun&show_icons=true&theme=radical)
 
+## My Github Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szsupunma" alt="szsupunma" /></a> </p>
 
  
