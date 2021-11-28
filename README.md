@@ -15,5 +15,3 @@ You can use the website to generate badges: https://shields.io/
 
 ## My Github Stats
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szsupunma" alt="szsupunma" /></a> </p>
-
-!Hey[https://telegra.ph/file/300548dbee413568e9f53.mp4]
