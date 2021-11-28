@@ -1,5 +1,5 @@
 # Hey There! <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="70px"> I'm Hirun Lakshan
-<img src="https://telegra.ph/file/098f207efd14f25af8c78.jpg" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/197386bff16f632a94fcbd31124e091c14591b021d6c93359a5aa927e29bc509/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3132302f6170706c652f3135352f6f70656e2d626f6f6b5f31663464362e706e67" style="max-width:100%;"><img src="https://telegra.ph/file/098f207efd14f25af8c78.jpg" style="max-width:100%;">
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
