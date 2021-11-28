@@ -12,3 +12,8 @@ You can use the website to generate badges: https://shields.io/
 - 📫 How to reach me : [![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](url-http://t.me/HirunLakshan)
 - 🚶‍   I live in : Sri Lanka 🇱🇰<br><br>
 ![Hirun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirun&show_icons=true&theme=radical)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szsupunma" alt="szsupunma" /></a> </p>
+
+ 
+ 
